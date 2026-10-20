@@ -61,3 +61,14 @@ Here is a look at the main interface:
 3. **Run:** Open your terminal or command prompt in the folder where you downloaded the file and run:
    ```bash
    java -jar MeoCRM-ERP.jar
+
+
+   
+***
+
+### 💡 Tips for the Screenshot:
+* **Make it clear:** Make sure the text on the screenshot is readable.
+* **Show the Ribbon:** Since you are using the Flamingo Ribbon UI, make sure the screenshot shows the top menu ribbon with the colorful vector icons. That is a major selling point of your app!
+* **Format:** `.png` or `.jpg` files work best. Keep the file size under 5MB so the page loads fast.
+
+* 
