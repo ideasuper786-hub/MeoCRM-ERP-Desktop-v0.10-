@@ -71,4 +71,10 @@ Here is a look at the main interface:
 * **Show the Ribbon:** Since you are using the Flamingo Ribbon UI, make sure the screenshot shows the top menu ribbon with the colorful vector icons. That is a major selling point of your app!
 * **Format:** `.png` or `.jpg` files work best. Keep the file size under 5MB so the page loads fast.
 
+* ## Contact
+
+If you have any questions, feedback, or want to report a bug, please reach out!
+
+**Email:** [meosofts01@gmail.com](mailto:meosofts01@gmail.com)
+
 * 
